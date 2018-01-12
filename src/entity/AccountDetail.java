@@ -12,7 +12,7 @@ package entity;
 public class AccountDetail {
     
     private String id,credit,debit,closing,date,detail;
-
+//this is new line
     public AccountDetail() {
     }
 

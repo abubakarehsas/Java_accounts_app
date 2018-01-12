@@ -34,7 +34,7 @@ public class AccountHolder {
     public void setTotalAccountDetail(TotalAccountDetail totalAccountDetail) {
         this.totalAccountDetail = totalAccountDetail;
     }
-
+//thid is new line
     public String getAccountHolderId() {
         return accountHolderId;
     }
